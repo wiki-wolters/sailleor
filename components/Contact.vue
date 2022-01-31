@@ -1,7 +1,7 @@
 <template>
     <page-block class="contact">
         <h2>Get in touch</h2>
-        <p><strong>Phone:</strong> 021 055 5563</p>
+        <p><strong>Phone:</strong> <a href="tel:+64210555563">021 055 5563</a></p>
         <p><strong>Address:</strong> 2/70 Glamorgan Drive, Torbay 0630, Auckland, NEW ZEALAND</p>
     </page-block>
 </template>

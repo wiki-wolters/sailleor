@@ -18,6 +18,14 @@
             <p>The shoe has to be fitted as tightly as possible, not allowing the foot to slip down inside the shoe, causing damage to the toe joints and the feet in particular.</p>
             <p>To further protect the dancer's feet each toe and the metatarsal heads will be taped for support as well as protection against rubbing of the skin during pointe work.</p>            
             <p>The fitter will be working closely with the dancer's feedback and it is important that the dancer reports what s/he can feel and experience.</p>
+            
+            <p>
+                <a href="https://juonpointe.com" target="_blank">
+                    <button class="bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+                        Read More
+                    </button>
+                </a>
+            </p>
           </div>
         </div>
     </page-block>
