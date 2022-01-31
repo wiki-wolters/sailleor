@@ -13,10 +13,11 @@
             <p>The foot has a natural three-point support system and when the foot moves onto demi–pointe, the three points of support move to a new position.</p>
             <p>However when the foot goes fully onto pointe the three points of support are lost entirely so the pointe shoe must replace the three points of support to the dancers foot.</p>
             <p>The shoe has to be fitted as tightly as possible, not allowing the foot to slip down inside the shoe, causing damage to the toe joints and the feet in particular.</p>
-            <p>To further protect the dancer's feet each toe and the metatarsal heads will be taped for support as well as protection against rubbing of the skin during pointe work.</p>            <p>The fitter will be working closely with the dancer's feedback and it is important that the dancer reports what s/he can feel and experience.</p>
+            <p>To further protect the dancer's feet each toe and the metatarsal heads will be taped for support as well as protection against rubbing of the skin during pointe work.</p>            
+            <p>The fitter will be working closely with the dancer's feedback and it is important that the dancer reports what s/he can feel and experience.</p>
           </div>
           <div>
-            <img src="../assets/images/shoes.jpg" />
+            <img src="~/assets/images/shoes.jpg" />
           </div>
         </div>
     </page-block>

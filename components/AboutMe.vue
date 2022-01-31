@@ -2,7 +2,7 @@
     <page-block>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
-            <img src="../assets/images/astrid-profile.jpg" />
+            <img src="~/assets/images/astrid-profile.jpg" />
           </div>
           <div class="col-span-2">
             <h2>About Me</h2>
