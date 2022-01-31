@@ -1,6 +1,6 @@
 <template>
     <page-block class="page-header">
-      <h1>Sailleor Dance Co.</h1>
+      <h1 class="text-4xl md:text-6xl">Sailleor Dance Co.</h1>
       <p>English: occupational name for a dancer<br />
           or acrobat, from Old French sailleor<br />
           'dancer', 'leaper'.</p>
@@ -30,5 +30,9 @@ p {
 .page-header {
     background: rgb(4,59,18);
     background: linear-gradient(342deg, rgba(4,59,18,1) 0%, rgba(6,84,26,1) 61%, rgba(13,124,41,1) 100%);
+}
+
+@media screen {
+    
 }
 </style>

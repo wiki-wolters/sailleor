@@ -1,5 +1,5 @@
 <template>
-    <section :style="style" :class="class">
+    <section :style="style" :class="classes">
         <div class="page-block__inner">
             <slot />
         </div>
@@ -32,6 +32,13 @@ export default defineComponent({
             }
 
             return style;
+        },
+        classes() {
+            return {
+                [this.class]: true,
+                ['p-5']: true,
+                ['md:p-10']: true
+            }
         }
     }
 })
@@ -39,7 +46,6 @@ export default defineComponent({
 
 <style scoped>
     section {
-        padding: 40px;
         text-align: center;
     }
     .page-block__inner {

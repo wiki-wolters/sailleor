@@ -1,6 +1,9 @@
 <template>
     <page-block>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+        <div class="grid grid-cols-1 md:grid-cols-3 md:gap-10">
+          <div>
+            <img src="~/assets/images/shoes.jpg" />
+          </div>
           <div class="col-span-2">
             <h2>Juon Pointe Shoe Fitting</h2>
             <p>The Juon Pointe Shoe Fitting system (affiliated with the Dancers Wellness Project) is a system designed through years of research by master fitter Esther Juon and her team of physiotherapists, osteopaths, podiatrists and ballet teachers. The system illuminates the skill that a fitter requires and the responsibility/duty of care necessary within the profession.</p>
@@ -15,9 +18,6 @@
             <p>The shoe has to be fitted as tightly as possible, not allowing the foot to slip down inside the shoe, causing damage to the toe joints and the feet in particular.</p>
             <p>To further protect the dancer's feet each toe and the metatarsal heads will be taped for support as well as protection against rubbing of the skin during pointe work.</p>            
             <p>The fitter will be working closely with the dancer's feedback and it is important that the dancer reports what s/he can feel and experience.</p>
-          </div>
-          <div>
-            <img src="~/assets/images/shoes.jpg" />
           </div>
         </div>
     </page-block>
